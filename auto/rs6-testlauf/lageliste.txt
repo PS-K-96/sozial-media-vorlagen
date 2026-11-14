@@ -1,0 +1,25 @@
+TEST berg: 1 vehicles in the scene. Scene: a winding two-lane mountain road climbing along a steep slope: rock face and forest on the left, a steel guard rail and an open valley on the right, distant mountains.
+
+[0 to 2 seconds] shot G1 (verfolger hinten): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear view, x 35-81 %, y 43-62 %
+[2 to 4 seconds] shot G2 (front mitfahrend): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: front view, x 17-71 %, y 39-61 %
+[4 to 6 seconds] shot G3 (hoch folgend): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear view, x 40-64 %, y 41-61 %
+TEST autobahn: 5 vehicles in the scene. Scene: a straight three-lane German motorway in daylight, steel guard rails, a line of conifers beside the road, light traffic.
+
+[0 to 2 seconds] shot H1 (verfolger hinten rechts versetzt): exactly 5 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear view, x 10-48 %, y 48-64 %
+  - dark block = the dark navy-blue saloon from the traffic catalog: rear view, x 47-51 %, y 46-48 %
+  - white block = the white mid-size SUV from the traffic catalog: rear view, x 49-52 %, y 46-47 %
+  - red block = the red compact hatchback from the traffic catalog: rear view, x 56-60 %, y 46-48 %
+  - white block = the white high-roof panel van from the traffic catalog: rear view, x 53-55 %, y 46-47 %
+[2 to 4 seconds] shot H2 (front vom mittelstreifen): exactly 3 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: front view, x 30-63 %, y 44-55 %
+  - dark block = the dark navy-blue saloon from the traffic catalog: front view, x 0-34 %, y 45-53 %, cropped by the frame edge
+  - red block = the red compact hatchback from the traffic catalog: front view, x 33-44 %, y 46-50 %
+  - enters the frame after 1 s: white block = the white mid-size SUV from the traffic catalog
+[4 to 6 seconds] shot H3 (drohne hoch folgend): exactly 3 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear view, x 39-51 %, y 50-60 %
+  - white block = the white mid-size SUV from the traffic catalog: rear three-quarter view, x 61-89 %, y 85-100 %, cropped by the frame edge
+  - white block = the white high-roof panel van from the traffic catalog: rear view, x 63-72 %, y 35-41 %
