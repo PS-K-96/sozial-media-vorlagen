@@ -1,0 +1,43 @@
+VIDEO autobahn: 8 vehicles in the scene. Scene: a straight three-lane German motorway, one direction only, in daylight; a steel guard rail and a dense green hedge in the central reservation, forest behind the hedge; hard shoulder and guard rail on the right.
+
+[0 to 2 seconds] shot A1 (verfolger hinten rechts versetzt): exactly 8 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear view, x 10-48 %, y 48-64 %
+  - red block = the red compact hatchback from the traffic catalog: rear view, x 56-61 %, y 46-48 %
+  - blue block = the dark navy-blue saloon from the traffic catalog: rear view, x 48-52 %, y 46-48 %
+  - suv block = the white mid-size SUV from the traffic catalog: rear view, x 50-52 %, y 46-47 %
+  - van block = the white high-roof panel van from the traffic catalog: rear view, x 53-54 %, y 46-46 %
+  - beige block = the champagne-beige family estate car from the traffic catalog: rear view, x 51-52 %, y 46-46 %
+  - truck block = the semi-trailer truck with a white cab and a grey tarpaulin trailer from the traffic catalog: rear view, x 53-54 %, y 45-46 %
+  - lightblue block = the light-blue small city car from the traffic catalog: rear view, x 52-52 %, y 46-46 %
+[2 to 4 seconds] shot A2 (front vom linken fahrbahnrand): exactly 2 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: front view, x 33-62 %, y 45-55 %
+  - red block = the red compact hatchback from the traffic catalog: front view, x 30-41 %, y 47-50 %
+  - enters the frame after 0.2 s: blue block = the dark navy-blue saloon from the traffic catalog
+  - enters the frame after 1.8 s: suv block = the white mid-size SUV from the traffic catalog
+[4 to 6 seconds] shot A3 (drohne hoch folgend, mittelstreifen am linken bildrand): exactly 6 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear view, x 16-29 %, y 51-62 %
+  - suv block = the white mid-size SUV from the traffic catalog: rear view, x 35-45 %, y 51-61 %
+  - van block = the white high-roof panel van from the traffic catalog: rear view, x 45-47 %, y 24-27 %
+  - beige block = the champagne-beige family estate car from the traffic catalog: rear view, x 40-42 %, y 23-25 %
+  - truck block = the semi-trailer truck with a white cab and a grey tarpaulin trailer from the traffic catalog: rear view, x 43-45 %, y 18-20 %
+  - lightblue block = the light-blue small city car from the traffic catalog: rear view, x 41-42 %, y 20-21 %
+[6 to 8 seconds] shot A4 (tief hinten an der stossstange): exactly 5 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear view, x 18-82 %, y 37-62 %
+  - van block = the white high-roof panel van from the traffic catalog: rear view, x 61-76 %, y 44-52 %
+  - beige block = the champagne-beige family estate car from the traffic catalog: rear view, x 49-51 %, y 49-50 %
+  - truck block = the semi-trailer truck with a white cab and a grey tarpaulin trailer from the traffic catalog: rear view, x 52-54 %, y 48-50 %
+  - lightblue block = the light-blue small city car from the traffic catalog: rear view, x 49-51 %, y 49-50 %
+[8 to 10 seconds] shot A5 (front mitfahrend): exactly 5 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: front view, x 30-86 %, y 42-61 %
+  - red block = the red compact hatchback from the traffic catalog: front view, x 35-36 %, y 43-44 %
+  - blue block = the dark navy-blue saloon from the traffic catalog: front view, x 36-39 %, y 43-44 %
+  - suv block = the white mid-size SUV from the traffic catalog: front view, x 35-38 %, y 43-44 %
+  - van block = the white high-roof panel van from the traffic catalog: front view, x 22-29 %, y 41-45 %
+  - enters the frame after 0.9 s: beige block = the champagne-beige family estate car from the traffic catalog
+[10 to 12 seconds] shot A6 (heli seitlich hoch rechts): exactly 4 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear three-quarter view, x 25-39 %, y 53-62 %
+  - beige block = the champagne-beige family estate car from the traffic catalog: side view, x 0-10 %, y 86-100 %, cropped by the frame edge
+  - truck block = the semi-trailer truck with a white cab and a grey tarpaulin trailer from the traffic catalog: rear three-quarter view, x 48-77 %, y 41-66 %
+  - lightblue block = the light-blue small city car from the traffic catalog: rear view, x 78-85 %, y 28-33 %
+[12 to 14 seconds] shot A7 (verfolger hinten mittig): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear view, x 32-68 %, y 48-63 %

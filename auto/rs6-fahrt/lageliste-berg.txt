@@ -1,0 +1,16 @@
+VIDEO berg: 1 vehicles in the scene. Scene: a winding two-lane mountain road climbing along a steep slope: rock face and forest on the left, a steel guard rail and an open valley on the right, distant mountains; no other vehicles.
+
+[0 to 2 seconds] shot K1 (front tief, faehrt voraus und blickt zurueck): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: front view, x 40-58 %, y 45-53 %
+[2 to 4 seconds] shot K2 (drohne seitlich ueber dem tal): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear three-quarter view, x 40-60 %, y 46-54 %
+[4 to 6 seconds] shot K3 (seite mitfahrend, talseite): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: front three-quarter view, x 7-91 %, y 43-57 %
+[6 to 8 seconds] shot K4 (verfolger hinten): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear view, x 19-68 %, y 43-63 %
+[8 to 10 seconds] shot K5 (draufsicht drohne): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: side view, x 36-64 %, y 43-56 %
+[10 to 12 seconds] shot K6 (front mitfahrend): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: front view, x 16-69 %, y 39-60 %
+[12 to 14 seconds] shot K7 (hoch folgend, steigt): exactly 1 vehicle(s) in the first frame.
+  - silver block = the Audi RS 6 Avant: rear view, x 29-64 %, y 40-61 %
