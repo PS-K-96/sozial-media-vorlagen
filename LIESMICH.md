@@ -26,6 +26,11 @@ Pressefotos, Personen, E-Mail-Adressen. Das Repo ist **öffentlich**.
 - Eine Datei wird nicht überschrieben, sondern unter neuem Namen abgelegt
   (`blender-berg-kurz.mp4`), damit ein laufender Flow seine Vorlage behält.
 
+## Links
+- Rohlink mit Commit-Kennung statt Zweigname verwenden: `raw.githubusercontent.com/PS-K-96/sozial-media-vorlagen/<commit>/<pfad>`.
+  Grund: Wird ein Zweig-Link vor dem Hochladen einmal abgerufen, liefert der Zwischenspeicher einige Minuten lang 404.
+  Der Commit-Link ist sofort gültig und ändert sich nie.
+
 ## Pflege
 - Ist das Video gepostet, werden seine Vorlagen aus `medien` gelöscht.
 - Wird `medien` größer als ca. 300 MB, setzt Claude den Zweig neu auf (ohne Altlasten);
